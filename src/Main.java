@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Hello World!");
         logger.info("Testing logz.io!");
         logger.warn("Winter is coming");
-        for (int i = 100000; i < 200000; i++) {
+        for (int i = 100000; i < 150000; i++) {
             if (isPrime(i)) {
                 try {
                     sleep(100);
